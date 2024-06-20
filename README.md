@@ -1,4 +1,4 @@
-# Data description
+# Data descriptionxd
 This dataset comprises resting EEG data from 122 college-aged participants, who also participated in the Openneuro probe selection task. Each participant engaged in alternating one-minute periods of eyes-open and eyes-closed tasks, marked by triggers such as OCCOCO or COOCOC. The data were collected between 2008 and 2010 at the John J.B. Allen lab at the University of Arizona.  
 
 All participants were reliably scored as either high or low on the Beck Depression Inventory (BDI), with some also undergoing clinical interviews. The experiment included two resting state sessions: the first one immediately after EEG hookup, lasting 6 minutes, and the second one about an hour after task performance, also lasting 6 minutes. Note that participant 516 lacks second resting data, and participant 544 was excluded from all analyses due to unstable BDI scores between mass and lab assessments.  
